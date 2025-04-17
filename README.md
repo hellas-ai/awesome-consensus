@@ -1,6 +1,6 @@
 # Awesome Consensus
 
-The literature on consensus is vast. Here's a selection of papers exploring the research landscape, focusing on recent systems, tradeoff extrema, and features interesting for Hellas.
+The literature on consensus is vast. Here's a selection of papers exploring the research landscape, focusing on recent systems, tradeoff extrema, and features interesting for Hellas. The sections are not mutually exclusive: papers are listed multiply if they are relevant.
 
 ## I. Foundational Concepts and Theoretical Limits
 
